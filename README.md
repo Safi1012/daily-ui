@@ -1,7 +1,7 @@
 # Daily UI
 
 I challenged myself to participate in the <a href="http://www.dailyui.co" target="_blank">daily UI</a> challenge. </br>
-My goal is to create every weekday a new UI Element for the next 100 days.
+My goal is to create every weekday a new UI Element for 50 days.
 
 You can check the full progress on my Behance <a href="https://www.behance.net/gallery/57148087/Daily-UI" target="_blank">profile</a>.
 <br/>
